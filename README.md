@@ -1,1 +1,1 @@
-# ppe-guard-ai
+https://www.figma.com/proto/gHv847lfzmZPrRgikExcwm/PPE-Guard-AI-%E2%80%94-Web-Uygulamas%C4%B1?node-id=4-9&p=f&t=x6Nui9K8rWRCmA1S-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A9
