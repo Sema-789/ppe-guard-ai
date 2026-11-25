@@ -16,6 +16,6 @@
 | **2. Uctan uca yanit suresi** | `< 1000 ms` (1 sn) | **~87.3 ms** (`5.4 ms` preprocess + `81.0 ms` inference + `0.9 ms` postprocess) | **Karsilandi** (Model cikarim suresi 1 sn sinirinin cok altinda; arayuz gecikmesi Hafta 5-6'da olculecek) |
 | **3. Farkli senaryolarda karar basarisi** | `>= %95` | Duzgun testlerde calisiyor; harici `oz_sekiller` setinde (`conf=0.50`) **11 yanlis pozitif** (`errors.csv`) | **Gelistirilecek** (Ekipmansiz kiyafetlerde false positive var; negatif ornek ekleme ve fine-tuning ile iyilestirilecek) |
 
-## 4. Sonraki Adimlar (Hafta 4 - 6)
+## Sonraki Adimlar
 - Negatif (bos etiketli) gorseller ekleyerek ve `conf` esigini optimize ederek false positive oranini dusurmek.
 - Hafta 4'te Backend iskeletini ve veritabani/kimlik dogrulama yapisini kurmak.
