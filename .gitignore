@@ -1,0 +1,7 @@
+﻿Helmet and Vest.v1i.yolov8/
+__pycache__/
+*.pyc
+runs/detect/predict*
+runs/detect/thr*
+runs/detect/bax*
+runs/detect/val*

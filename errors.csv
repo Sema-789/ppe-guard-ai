@@ -1,0 +1,12 @@
+﻿thr,file,source,group,expected,predicted,correct,detections
+0.5,test_cases\helmet_only\h1.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,helmet:0.93; vest:0.62; helmet:0.52; helmet:0.48; helmet:0.15
+0.5,test_cases\helmet_only\h2.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,vest:0.81; helmet:0.79; helmet:0.34; helmet:0.27; helmet:0.23; helmet:0.21; helmet:0.20; helmet:0.14; helmet:0.13
+0.5,test_cases\helmet_only\h3.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,vest:0.95; helmet:0.84
+0.5,test_cases\helmet_only\h4.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,helmet:0.84; helmet:0.79; vest:0.66; vest:0.19
+0.5,test_cases\helmet_only\h5.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,helmet:0.83; vest:0.69
+0.5,test_cases\helmet_only\h6.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,vest:0.88; helmet:0.74
+0.5,test_cases\helmet_only\h7.jpg,oz_sekiller,helmet_only,DENIED,APPROVED,False,helmet:0.86; vest:0.75
+0.5,test_cases\vest_only\h16.jpg,oz_sekiller,vest_only,DENIED,APPROVED,False,vest:0.91; helmet:0.59
+0.5,test_cases\vest_only\h19.jpg,oz_sekiller,vest_only,DENIED,APPROVED,False,vest:0.95; helmet:0.58
+0.5,test_cases\none\h12.jpg,oz_sekiller,none,DENIED,APPROVED,False,vest:0.78; helmet:0.74
+0.5,test_cases\none\h9.jpg,oz_sekiller,none,DENIED,APPROVED,False,vest:0.84; helmet:0.58
